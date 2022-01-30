@@ -21,10 +21,6 @@ main:
 	CALL	puts
 	CALL	newline
 
-	LD 	HL, 0fd21h
-	CALL	puth16
-	CALL	newline
-
 	CALL	exit
 
 ;------------------------------------------------------------------------
