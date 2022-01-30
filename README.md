@@ -20,5 +20,5 @@ The program just prints "Hello, World", but it separates out the
 
 For full details, see 
 
-http://kevinboone.com/z80asmtest.html
+http://kevinboone.me/z80asmtest.html
 
